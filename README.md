@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kogovsekmatic
 - 👀 I’m interested in Node.js, React & Docker
-- 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on projects that focus on JavaScript (Node.js, React)
 - 📫 How to reach me kogovsek.matic@gmail.com
 
